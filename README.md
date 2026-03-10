@@ -6,7 +6,7 @@
 
 * DApp: https://fuji.PredP.red
 * Smart Contract:
-  * PPApp (Prediction Market): https://testnet.avascan.info/blockchain/all/address/0x9acAb9f9c8Fb92348695EceA9F6aB6Ff4eC3B804/contract
+  * PPApp (Prediction Market): https://testnet.avascan.info/blockchain/all/address/0x7Be1460B9a88D7e38B91fdAFe6b4D311Bd3ca4Ea/contract
   * Airdrop: https://testnet.avascan.info/blockchain/all/address/0xAF48E58c42CCDEDd65829225B3B9e53F69Fa0004/contract
 * X: https://x.com/PredPred_HQ
 * bonding curve: https://www.desmos.com/calculator/feajupdyju
