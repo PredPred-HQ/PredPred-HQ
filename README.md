@@ -5,7 +5,9 @@
 *PredP.red application landing page showcasing the prediction market platform*.
 
 * DApp: https://fuji.PredP.red
-* Smart Contract Verify: https://repo.sourcify.dev/43113/0xbE03338A630B948A043b5e8eA390813bF28A5Ff4
+* Smart Contract:
+  * PPApp (Prediction Market): https://testnet.avascan.info/blockchain/all/address/0x9acAb9f9c8Fb92348695EceA9F6aB6Ff4eC3B804/contract
+  * Airdrop: https://testnet.avascan.info/blockchain/all/address/0xAF48E58c42CCDEDd65829225B3B9e53F69Fa0004/contract
 * X: https://x.com/PredPred_HQ
 * bonding curve: https://www.desmos.com/calculator/feajupdyju
 * [pitch deck](https://www.canva.com/design/DAG_Cq1z93E/ir5ze-JHcyavi0r1lg-K8Q/edit?utm_content=DAG_Cq1z93E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
